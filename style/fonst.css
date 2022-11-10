@@ -1,0 +1,85 @@
+@font-face {
+    font-family: 'Hauora';
+    src: url(../fonts/Hauora-Light.otf);
+    font-weight: 300;
+}
+@font-face {
+    font-family: 'Hauora';
+    src: url(../fonts/Hauora-Regular.otf);
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'Hauora';
+    src: url(../fonts/Hauora-ExtraBold.otf);
+    font-weight: 800;
+}
+@font-face {
+    font-family: 'Hauora';
+    src: url(../fonts/Hauora-SemiBold.otf);
+    font-weight: 600;
+}
+@font-face {
+    font-family: 'Hauora';
+    src: url(../fonts/Hauora-Bold.otf);
+    font-weight: 700;
+}
+@font-face {
+    font-family: 'Inter';
+    src: url(../fonts/Inter-Bold.ttf);
+    font-weight: 700;
+}  
+@font-face {
+    font-family: 'Inter';
+    src: url(../fonts/Inter-ExtraBold.ttf);
+    font-weight: 800;
+}  
+@font-face {
+    font-family: 'Poppins';
+    src: url(../fonts/Poppins-Bold.ttf);
+    font-weight: 700;
+}  
+@font-face {
+    font-family: 'Poppins';
+    src: url(../fonts/Poppins-Regular.ttf);
+    font-weight: 400;
+}  
+@font-face {
+    font-family: 'Poppins';
+    src: url(../fonts/Poppins-Medium.ttf);
+    font-weight: 500;
+}  
+@font-face {
+    font-family: 'Golos';
+    src: url(../fonts/Golos-Text_Bold.ttf);
+    font-weight: 700;
+}  
+@font-face {
+    font-family: 'Montserrat ';
+    src: url(../fonts/Montserrat-Regular.ttf);
+    font-weight: 400;
+}  
+@font-face {
+    font-family: 'Montserrat ';
+    src: url(../fonts/Montserrat-Medium.ttf);
+    font-weight:500;
+} 
+@font-face {
+    font-family: 'Montserrat ';
+    src: url(../fonts/Montserrat-SemiBold.ttf);
+    font-weight:600;
+} 
+@font-face {
+    font-family: 'Roboto';
+    src: url(../fonts/Roboto-Regular.ttf);
+    font-weight:400;
+} 
+@font-face {
+    font-family: 'Roboto';
+    src: url(../fonts/Roboto-Medium.ttf);
+    font-weight:500;
+} 
+@font-face {
+    font-family: 'ABeeZee';
+    src: url(../fonts/ABeeZee-Regular.ttf);
+    font-weight:400;
+} 
